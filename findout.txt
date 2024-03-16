@@ -1,0 +1,6 @@
+/// Find Solution
+Based on what was used in this project, to carry out fetching and posting, what if the user has a network issue, and then we already gave the user the impression that his or her post has been added?
+
+// Solution
+1. A solution can be to add the posts, but gray it out?
+And if there is a network error, i just remove the post
